@@ -1,4 +1,4 @@
-# SelfOrganizingMaps
+# Self Organizing Maps for Fraud Detection in Banking
 Template implementation of a SOM for banking Fraud Detection 
 
 Fraud detection in banking sector
