@@ -1,4 +1,8 @@
 # Self Organizing Maps for Fraud Detection in Banking
+
+### Note: This repository contains homework assignments for the Artificial Intelligence course at the University of Glasgow, created while I served as the assistant lecturer and held a postdoctoral position, focusing on Python, deep learning, and associated tools.
+
+
 Template implementation of a SOM for banking Fraud Detection 
 
 
